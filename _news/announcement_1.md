@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-02-4 
 inline: true
 ---
 
-A simple inline announcement.
+Connect 4 AI player project
