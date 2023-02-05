@@ -190,6 +190,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - old-pages
 keep_files:
   - CNAME
   - .nojekyll

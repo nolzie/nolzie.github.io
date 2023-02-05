@@ -3,7 +3,7 @@
   contents:
     - name: Full Name
       value: Noah Harrison
-    - name: 
+    - name: DOB 
       value: 02/11/2001
 
 - title: Education
@@ -30,7 +30,7 @@
       description:
         - Applying machine learning technologies to industrial processes.
         - Data extraction and management
-        - Completing Analyses to inform engineering standards 
+        - Completing analyses to inform engineering standards 
         - Managing 3rd party developers and stakeholders 
 
     - title: Electrical Trade Assistant
