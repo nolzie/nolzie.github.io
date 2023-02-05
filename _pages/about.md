@@ -16,8 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am currently studying a bachelor of Mathematics and Computer Science at the University of Adelaide. I have also spent the last 2+ years working for Santos as an undergraduate Data Scientist, focusing on the application of predictive analytics to key assets.
-The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My career aspirations for the future are to gain employment as a full time data scientist, and continue to develop expertise in this field. My focus for the next year is to finish my degree, and to develop a deep understanding of software engineering best practices.
 
 
